@@ -1,11 +1,12 @@
 # Odin-recipess
+---
  ## What we have here
         * index page
         * recipes folder
            - with three recipes pages
         * images folder
            - with multiple images to use in our project eg.(welcom image, recipes final looking etc)
-        
+---     
  ## What we Use and Where we use< 
         * HTML Boiler Plate BY emmet using (!) <--- this key word
         * Use Some Tags
@@ -15,7 +16,7 @@
             - <strong> strong tag for boldness of text
             - <em> em tag for italisze the descriptive text 
             - <ol> ,<ul>, <li> use these three tages for ingrident and steps of the recipes and to formalize the link in index page
-
+---
     AND THATS IT. For now 
     author - SHUBHAM GUPTA
 
